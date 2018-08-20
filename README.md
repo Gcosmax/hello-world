@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi 
+I have some background in java , i like to be partner SN
